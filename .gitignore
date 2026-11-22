@@ -1,0 +1,10 @@
+build/
+dist/
+*.o
+*.obj
+*.exe
+leakguard
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
